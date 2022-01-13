@@ -1,0 +1,622 @@
+[
+  {
+    "mask_id": "atease-107",
+    "listing_url": "https://pcsatease.com/listing/atease-107",
+    "nearest_base_installation": "Fort Huachuca",
+    "nearest_base_installation_type": "army",
+    "name": "Grunt's Basic Stay",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "cottage",
+    "room_type": "single",
+    "isPetFriendly": false,
+    "min_nights": "1",
+    "max_nights": "-1",
+    "bedrooms": "1",
+    "beds": "1",
+    "amenities": [
+      "Fridge Full Of MREs & Bottled Water...Yum!"
+    ],
+    "price": "4.75",
+    "security_deposit": "0.00",
+    "deposit_refundable": false,
+    "cleaning_fee": "3.25",
+    "extra_people_fee": "0.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Lane",
+      "address_line_2": "Cottage #7",
+      "city": "Fort Huachuca",
+      "state": "az",
+      "postal_code": "85613",
+      "country": "usa"
+    }
+  },
+  {
+    "maskId": "atease-117",
+    "listing_url": "https://pcsatease.com/listing/atease-117",
+    "nearest_base_installation": "Colorado Springs Military Bases",
+    "nearest_base_installation_type": "army",
+    "name": "Got Your Six Lodging",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "apartment",
+    "room_type": "double",
+    "isPetFriendly": false,
+    "min_nights": "2",
+    "max_nights": "14",
+    "bedrooms": "2",
+    "beds": "2",
+    "amenities": [],
+    "price": "3.50",
+    "security_deposit": "50.00",
+    "deposit_refundable": true,
+    "cleaning_fee": "10.00",
+    "extra_people_fee": "15.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Ln",
+      "address_line_2": "",
+      "city": "Fort Carson",
+      "state": "co",
+      "postal_code": "80913",
+      "country": "usa"
+    }
+  },
+  {
+    "maskId": "atease-137",
+    "listing_url": "https://pcsatease.com/listing/atease-137",
+    "nearest_base_installation": "Tripler Army Medical Center",
+    "nearest_base_installation_type": "army",
+    "name": "PCS Family's Find",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "guest-house",
+    "room_type": "multiple",
+    "isPetFriendly": true,
+    "min_nights": "7",
+    "max_nights": "21",
+    "bedrooms": "5",
+    "beds": "8",
+    "amenities": [],
+    "price": "12.50",
+    "security_deposit": "75.00",
+    "deposit_refundable": true,
+    "cleaning_fee": "12.50",
+    "extra_people_fee": "0.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Ln",
+      "address_line_2": "",
+      "city": "Honolulu",
+      "state": "HI",
+      "postal_code": "96859",
+      "country": "usa"
+    }
+  },
+  {
+    "maskId": "atease-204",
+    "listing_url": "https://pcsatease.com/listing/atease-204",
+    "nearest_base_installation": "Naval Base Kitsap",
+    "nearest_base_installation_type": "navy",
+    "name": "Hostel By The Sea",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "hostel",
+    "room_type": "multi",
+    "isPetFriendly": false,
+    "min_nights": "1",
+    "max_nights": "10",
+    "bedrooms": "1",
+    "beds": "30",
+    "amenities": [],
+    "price": "5.75",
+    "security_deposit": "0.00",
+    "deposit_refundable": false,
+    "cleaning_fee": "2.75",
+    "extra_people_fee": "0.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Ln",
+      "address_line_2": "",
+      "city": "Bremerton",
+      "state": "wa",
+      "postal_code": "98312",
+      "country": "usa"
+    }
+  },
+  {
+    "maskId": "atease-244",
+    "listing_url": "https://pcsatease.com/listing/atease-244",
+    "nearest_base_installation": "Naval Base Okinawa",
+    "nearest_base_installation_type": "navy",
+    "name": "海辺の美しさ - Seaside Beauty",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "cabin",
+    "room_type": "single",
+    "isPetFriendly": true,
+    "min_nights": "1",
+    "max_nights": "1",
+    "bedrooms": "1",
+    "beds": "2",
+    "amenities": [],
+    "price": "5.25",
+    "security_deposit": "15.00",
+    "deposit_refundable": true,
+    "cleaning_fee": "2.50",
+    "extra_people_fee": "5.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Ln",
+      "address_line_2": "",
+      "city": "Okinawa",
+      "state": "",
+      "postal_code": "",
+      "country": "japan"
+    }
+  },
+  {
+    "maskId": "atease-284",
+    "listing_url": "https://pcsatease.com/listing/atease-284",
+    "nearest_base_installation": "Naval Base Kingsville",
+    "nearest_base_installation_type": "navy",
+    "name": "Kingsville Five-Sided Puzzle Palace",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "cabin",
+    "room_type": "multi",
+    "isPetFriendly": false,
+    "min_nights": "1",
+    "max_nights": "14",
+    "bedrooms": "4",
+    "beds": "6",
+    "amenities": [],
+    "price": "14.25",
+    "security_deposit": "50.00",
+    "deposit_refundable": true,
+    "cleaning_fee": "12.75",
+    "extra_people_fee": "0.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Land",
+      "address_line_2": "",
+      "city": "Kingsville",
+      "state": "tx",
+      "postal_code": "78363",
+      "country": "usa"
+    }
+  },
+  {
+    "maskId": "atease-377",
+    "listing_url": "https://pcsatease.com/listing/atease-377",
+    "nearest_base_installation": "Camp Pendleton",
+    "nearest_base_installation_type": "marinecorps",
+    "name": "Marine Recruit Cabin",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "cabin",
+    "room_type": "single",
+    "isPetFriendly": false,
+    "min_nights": "1",
+    "max_nights": "1",
+    "bedrooms": "1",
+    "beds": "1",
+    "amenities": [
+      "Fridge Full Of MREs & Bottled Water...Yum!"
+    ],
+    "price": "5.00",
+    "security_deposit": "0.00",
+    "deposit_refundable": false,
+    "cleaning_fee": "2.50",
+    "extra_people_fee": "0.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Ln",
+      "address_line_2": "",
+      "city": "Camp Pendleton",
+      "state": "ca",
+      "postal_code": "92055",
+      "country": "usa"
+    }
+  },
+  {
+    "maskId": "atease-388",
+    "listing_url": "https://pcsatease.com/listing/atease-388",
+    "nearest_base_installation": "United States Southern Command",
+    "nearest_base_installation_type": "marinecorps",
+    "name": "Jarhead's Fox-hole",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "cottage",
+    "room_type": "multi",
+    "isPetFriendly": false,
+    "min_nights": "1",
+    "max_nights": "14",
+    "bedrooms": "2",
+    "beds": "2",
+    "amenities": [
+      "Fridge Full Of MREs & Bottled Water...Yum!"
+    ],
+    "price": "7.15",
+    "security_deposit": "5.00",
+    "deposit_refundable": false,
+    "cleaning_fee": "2.50",
+    "extra_people_fee": "0.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Ln",
+      "address_line_2": "",
+      "city": "Doral",
+      "state": "fl",
+      "postal_code": "33172",
+      "country": "usa"
+    }
+  },
+  {
+    "maskId": "atease-399",
+    "listing_url": "https://pcsatease.com/listing/atease-399",
+    "nearest_base_installation": "Marine Corps Air Station Yuma",
+    "nearest_base_installation_type": "marinecorps",
+    "name": "Commander's Reprieve",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "house",
+    "room_type": "multi",
+    "isPetFriendly": false,
+    "min_nights": "1",
+    "max_nights": "9",
+    "bedrooms": "4",
+    "beds": "6",
+    "amenities": [
+      "Fridge Full Of MREs & Bottled Water...Yum!"
+    ],
+    "price": "11.75",
+    "security_deposit": "75.00",
+    "deposit_refundable": true,
+    "cleaning_fee": "12.50",
+    "extra_people_fee": "0.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Ln",
+      "address_line_2": "",
+      "city": "Yuma",
+      "state": "az",
+      "postal_code": "85365",
+      "country": "usa"
+    }
+  },
+  {
+    "maskId": "atease-401",
+    "listing_url": "https://pcsatease.com/listing/atease-401",
+    "nearest_base_installation": "Vandenberg AFB",
+    "nearest_base_installation_type": "airforce",
+    "name": "Airman's Home Away From Home",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "apartment",
+    "room_type": "multi",
+    "isPetFriendly": false,
+    "min_nights": "1",
+    "max_nights": "7",
+    "bedrooms": "2",
+    "beds": "2",
+    "amenities": [
+      "Fridge Full Of MREs & Bottled Water...Yum!"
+    ],
+    "price": "7.25",
+    "security_deposit": "0.00",
+    "deposit_refundable": true,
+    "cleaning_fee": "0.00",
+    "extra_people_fee": "7.25",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Ln",
+      "address_line_2": "",
+      "city": "lompoc",
+      "state": "ca",
+      "postal_code": "93438",
+      "country": "usa"
+    }
+  },
+  {
+    "maskId": "atease-411",
+    "listing_url": "https://pcsatease.com/listing/atease-411",
+    "nearest_base_installation": "Columbus AFB",
+    "nearest_base_installation_type": "airforce",
+    "name": "Recruit's Cabin",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "cabin",
+    "room_type": "single",
+    "isPetFriendly": false,
+    "min_nights": "1",
+    "max_nights": "7",
+    "bedrooms": "1",
+    "beds": "1",
+    "amenities": [
+      "Fridge Full Of MREs & Bottled Water...Yum!"
+    ],
+    "price": "6.35",
+    "security_deposit": "0.00",
+    "deposit_refundable": true,
+    "cleaning_fee": "3.75",
+    "extra_people_fee": "0.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Ln",
+      "address_line_2": "",
+      "city": "Columbus AFB",
+      "state": "ms",
+      "postal_code": "39710",
+      "country": "usa"
+    }
+  },
+  {
+    "maskId": "atease-421",
+    "listing_url": "https://pcsatease.com/listing/atease-421",
+    "nearest_base_installation": "Holloman AFB",
+    "nearest_base_installation_type": "airforce",
+    "name": "USAFB Welcome",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "guest-house",
+    "room_type": "multi",
+    "isPetFriendly": false,
+    "min_nights": "1",
+    "max_nights": "21",
+    "bedrooms": "7",
+    "beds": "10",
+    "amenities": [
+      "Fridge Full Of MREs & Bottled Water...Yum!"
+    ],
+    "price": "23.45",
+    "security_deposit": "150.00",
+    "deposit_refundable": true,
+    "cleaning_fee": "25.00",
+    "extra_people_fee": "0.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Ln",
+      "address_line_2": "",
+      "city": "Holloman AFB",
+      "state": "nm",
+      "postal_code": "88330",
+      "country": "usa"
+    }
+  },
+  {
+    "maskId": "atease-535",
+    "listing_url": "https://pcsatease.com/listing/atease-535",
+    "nearest_base_installation": "Station Sturgeon Bay",
+    "nearest_base_installation_type": "coastguard",
+    "name": "Coast Is All Clear",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "cabin",
+    "room_type": "single",
+    "isPetFriendly": false,
+    "min_nights": "1",
+    "max_nights": "1",
+    "bedrooms": "1",
+    "beds": "1",
+    "amenities": [
+      "Fridge Full Of MREs & Bottled Water...Yum!"
+    ],
+    "price": "8.00",
+    "security_deposit": "0.00",
+    "deposit_refundable": false,
+    "cleaning_fee": "4.75",
+    "extra_people_fee": "0.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Ln",
+      "address_line_2": "",
+      "city": "Sturgeon Bay",
+      "state": "wi",
+      "postal_code": "54235",
+      "country": "usa"
+    }
+  },
+  {
+    "maskId": "atease-565",
+    "listing_url": "https://pcsatease.com/listing/atease-565",
+    "nearest_base_installation": "Air Station Corpus Christi",
+    "nearest_base_installation_type": "coastguard",
+    "name": "Guardsman's Cabin",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "cabin",
+    "room_type": "single",
+    "isPetFriendly": false,
+    "min_nights": "1",
+    "max_nights": "4",
+    "bedrooms": "1",
+    "beds": "1",
+    "amenities": [
+      "Fridge Full Of MREs & Bottled Water...Yum!"
+    ],
+    "price": "8.75",
+    "security_deposit": "5.00",
+    "deposit_refundable": false,
+    "cleaning_fee": "2.50",
+    "extra_people_fee": "0.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Ln",
+      "address_line_2": "",
+      "city": "Corpus Christi",
+      "state": "tx",
+      "postal_code": "78406",
+      "country": "usa"
+    }
+  },
+  {
+    "maskId": "atease-575",
+    "listing_url": "https://pcsatease.com/listing/atease-575",
+    "nearest_base_installation": "Holloman AFB",
+    "nearest_base_installation_type": "coastguard",
+    "name": "Captain's Lounge",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "guest-house",
+    "room_type": "single",
+    "isPetFriendly": false,
+    "min_nights": "2",
+    "max_nights": "4",
+    "bedrooms": "4",
+    "beds": "6",
+    "amenities": [
+      "Fridge Full Of MREs & Bottled Water...Yum!"
+    ],
+    "price": "17.30",
+    "security_deposit": "3.50",
+    "deposit_refundable": true,
+    "cleaning_fee": "0.00",
+    "extra_people_fee": "0.00",
+    "host_info": null,
+    "availability": {
+      "is_currently_available": true,
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
+    },
+    "images": [
+      {
+        "image_name": "",
+        "image_source": ""
+      }
+    ],
+    "property_address": {
+      "address_line_1": "123 Fantasy Ln",
+      "address_line_2": "",
+      "city": "Port Angeles",
+      "state": "wa",
+      "postal_code": "98363",
+      "country": "usa"
+    }
+  }
+]

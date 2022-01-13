@@ -1,0 +1,23 @@
+{
+  "name": "bss",
+  "version": "1.0.0",
+  "description": "Base Search Backend Server.",
+  "main": "server.js",
+  "author": "Dustin K Greco",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^6.1.6"
+  },
+  "devDependencies": {
+    "dotenv": "10.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "dev": "nodemon -r dotenv/config server",
+    "start": "node -r dotenv/config server",
+    "cleanServerData:Listings": "node -r dotenv/config db/data/seeds/seed.listings.js -d",
+    "importServerData:Listings": "node -r dotenv/config db/data/seeds/seed.listings.js -i"
+  }
+}

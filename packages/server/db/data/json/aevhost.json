@@ -1,0 +1,18 @@
+[
+  {
+    "name": "",
+    "listing_count": "",
+    "host_rating": "",
+    "host_contact_details": [
+      {
+        "contact_type": "phone",
+        "contact_data": "+1 000 111 2222"
+      },
+      {
+        "contact_type": "email",
+        "contact_data": "fakeEmail@hosts_atease.com"
+      }
+    ],
+    "proudlyHosts": [""]
+  }
+]

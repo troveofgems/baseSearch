@@ -1,0 +1,17 @@
+{
+  "name": "baseSearch",
+  "version": "1.0.0",
+  "description": "Root Project Directory For Base Search",
+  "main": "index.js",
+  "repository": "https://github.com/troveofgems/baseSearch.git",
+  "author": "Dustin Kent Greco <dkgreco@thetroveofgems.tech>",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^7.0.0"
+  },
+  "scripts": {
+    "dev": "concurrently \"yarn run server\" \"yarn run client\"",
+    "data:import": "yarn --cwd packages/server importServerData",
+    "data:clean": "yarn --cwd packages/server cleanServerData"
+  }
+}
