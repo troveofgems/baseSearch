@@ -1,0 +1,56 @@
+.soldierReviews {
+    padding-bottom: 3rem;
+    background-color: #15141b;
+}
+
+.soldierReviews-paragraph {
+    font-size: 1.25rem;
+    color: #ddd;
+    width: 75%;
+    margin: 2rem auto 3rem auto;
+    text-align: center;
+}
+
+.soldier-card-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.soldier-image-wrapper {
+    margin: auto 0;
+}
+
+.soldier-card {
+    background-color: #eee;
+    display: flex;
+    margin: 3rem 3rem;
+    width: 30%!important;
+}
+
+.soldier-image {
+    max-height: 240px;
+    width: 15rem;
+    margin-left: -1.3rem;
+}
+
+.soldier-info {
+    padding: 0 2rem;
+}
+
+.soldier-fullname {
+    font-size: 2rem;
+    font-weight: 300;
+    margin-bottom: 0;
+}
+
+.soldier-paragraph-1 {
+    font-size: 1rem;
+    font-style: italic;
+    color: #b85d1c;
+}
+
+.soldier-paragraph-2 {
+    font-size: 1.25rem;
+    font-style: italic;
+    letter-spacing: .05em;
+}

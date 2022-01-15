@@ -1,0 +1,12 @@
+.creator-signature {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #111;
+    padding: 0 4rem;
+}
+
+.copyright-text {
+    font-size: 1rem;
+    color: #aaa;
+}

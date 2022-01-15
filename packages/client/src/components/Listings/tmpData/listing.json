@@ -1,11 +1,11 @@
 [
   {
-    "mask_id": "basesearch-107",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-107",
+    "mask_id": "atease-107",
+    "listing_url": "https://pcsatease.com/listing/atease-107",
     "nearest_base_installation": "Fort Huachuca",
     "nearest_base_installation_type": "army",
     "name": "Grunt's Basic Stay",
-    "summary": "The sun had not yet risen. The sea was indistinguishable from the sky, except that the sea was slightly creased as if a cloth had wrinkles in it. Gradually as the sky whitened a dark line lay on the horizon dividing the sea from the sky and the grey cloth became barred with thick strokes moving, one after another, beneath the surface, following each other, pursuing each other, perpetually.",
+    "summary": "Single room cottage replete with a working fireplace. Perfect for any soldier.",
     "property_type": "cottage",
     "room_type": "single",
     "isPetFriendly": false,
@@ -24,9 +24,7 @@
     "host_info": null,
     "availability": {
       "is_currently_available": true,
-      "availability_score": "# Of Unavailable Dates / Total Available Dates",
-      "datesAvailable": {},
-      "datesUnavailable": {}
+      "availability_score": "# Of Unavailable Dates / Total Available Dates"
     },
     "images": [
       {
@@ -44,12 +42,12 @@
     }
   },
   {
-    "maskId": "basesearch-117",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-117",
+    "maskId": "atease-117",
+    "listing_url": "https://pcsatease.com/listing/atease-117",
     "nearest_base_installation": "Colorado Springs Military Bases",
     "nearest_base_installation_type": "army",
     "name": "Got Your Six Lodging",
-    "summary": "As they neared the shore each bar rose, heaped itself, broke and swept a thin veil of white water across the sand. The wave paused, and then drew out again, sighing like a sleeper whose breath comes and goes unconsciously.",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
     "property_type": "apartment",
     "room_type": "double",
     "isPetFriendly": false,
@@ -71,7 +69,7 @@
     "images": [
       {
         "image_name": "",
-        "image_source": "img/about-us-img-1.jpeg"
+        "image_source": "img/gallery-img-3.jpeg"
       }
     ],
     "property_address": {
@@ -84,13 +82,13 @@
     }
   },
   {
-    "maskId": "basesearch-137",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-137",
+    "maskId": "atease-137",
+    "listing_url": "https://pcsatease.com/listing/atease-137",
     "nearest_base_installation": "Tripler Army Medical Center",
     "nearest_base_installation_type": "army",
     "name": "PCS Family's Find",
-    "summary": "'I see a crimson tassel,' said Jinny, 'twisted with gold threads.'",
-    "property_type": "guest-house",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
+    "property_type": "guesthouse",
     "room_type": "multiple",
     "isPetFriendly": true,
     "min_nights": "7",
@@ -111,7 +109,7 @@
     "images": [
       {
         "image_name": "",
-        "image_source": "img/about-us-img-2.jpeg"
+        "image_source": "img/gallery-img-2.jpeg"
       }
     ],
     "property_address": {
@@ -124,12 +122,12 @@
     }
   },
   {
-    "maskId": "basesearch-204",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-204",
+    "maskId": "atease-204",
+    "listing_url": "https://pcsatease.com/listing/atease-204",
     "nearest_base_installation": "Naval Base Kitsap",
     "nearest_base_installation_type": "navy",
     "name": "Hostel By The Sea",
-    "summary": "Gradually the dark bar on the horizon became clear as if the sediment in an old wine-bottle had sunk and left the glass green. Behind it, too, the sky cleared as if the white sediment there had sunk",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
     "property_type": "hostel",
     "room_type": "multi",
     "isPetFriendly": false,
@@ -151,7 +149,7 @@
     "images": [
       {
         "image_name": "",
-        "image_source": "img/about-us-img-3.jpeg"
+        "image_source": "img/gallery-img-6.jpeg"
       }
     ],
     "property_address": {
@@ -164,12 +162,12 @@
     }
   },
   {
-    "maskId": "basesearch-244",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-244",
+    "maskId": "atease-244",
+    "listing_url": "https://pcsatease.com/listing/atease-244",
     "nearest_base_installation": "Naval Base Okinawa",
     "nearest_base_installation_type": "navy",
     "name": "海辺の美しさ - Seaside Beauty",
-    "summary": "'Islands of light are swimming on the grass,' said Rhoda. 'They have fallen through the trees.'",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
     "property_type": "cabin",
     "room_type": "single",
     "isPetFriendly": true,
@@ -191,7 +189,7 @@
     "images": [
       {
         "image_name": "",
-        "image_source": "img/about-us-img-4.jpeg"
+        "image_source": "img/gallery-img-3.jpeg"
       }
     ],
     "property_address": {
@@ -204,12 +202,12 @@
     }
   },
   {
-    "maskId": "basesearch-284",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-284",
+    "maskId": "atease-284",
+    "listing_url": "https://pcsatease.com/listing/atease-284",
     "nearest_base_installation": "Naval Base Kingsville",
     "nearest_base_installation_type": "navy",
     "name": "Kingsville Five-Sided Puzzle Palace",
-    "summary": "or as if the arm of a woman couched beneath the horizon had raised a lamp and flat bars of white, green and yellow spread across the sky like the blades of a fan. Then she raised her lamp higher and the air seemed to become fibrous and to tear away from the green surface",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
     "property_type": "cabin",
     "room_type": "multi",
     "isPetFriendly": false,
@@ -231,7 +229,7 @@
     "images": [
       {
         "image_name": "",
-        "image_source": "img/gallery-img-1.jpeg"
+        "image_source": "img/gallery-img-5.jpeg"
       }
     ],
     "property_address": {
@@ -244,12 +242,12 @@
     }
   },
   {
-    "maskId": "basesearch-377",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-377",
+    "maskId": "atease-377",
+    "listing_url": "https://pcsatease.com/listing/atease-377",
     "nearest_base_installation": "Camp Pendleton",
     "nearest_base_installation_type": "marinecorps",
     "name": "Marine Recruit Cabin",
-    "summary": "flickering and flaming in red and yellow fibres like the smoky fire that roars from a bonfire. Gradually the fibres of the burning bonfire were fused into one haze, one incandescence which lifted the weight of the woollen grey sky on top of it and",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
     "property_type": "cabin",
     "room_type": "single",
     "isPetFriendly": false,
@@ -273,7 +271,7 @@
     "images": [
       {
         "image_name": "",
-        "image_source": "img/gallery-img-2.jpeg"
+        "image_source": "img/about-us-img-4.jpeg"
       }
     ],
     "property_address": {
@@ -286,12 +284,12 @@
     }
   },
   {
-    "maskId": "basesearch-388",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-388",
+    "maskId": "atease-388",
+    "listing_url": "https://pcsatease.com/listing/atease-388",
     "nearest_base_installation": "United States Southern Command",
     "nearest_base_installation_type": "marinecorps",
     "name": "Jarhead's Fox-hole",
-    "summary": "turned it to a million atoms of soft blue. The surface of the sea slowly became transparent and lay rippling and sparkling until the dark stripes were almost rubbed out.",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
     "property_type": "cottage",
     "room_type": "multi",
     "isPetFriendly": false,
@@ -315,7 +313,7 @@
     "images": [
       {
         "image_name": "",
-        "image_source": "img/gallery-img-3.jpeg"
+        "image_source": "img/gallery-img-1.jpeg"
       }
     ],
     "property_address": {
@@ -328,12 +326,12 @@
     }
   },
   {
-    "maskId": "basesearch-399",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-399",
+    "maskId": "atease-399",
+    "listing_url": "https://pcsatease.com/listing/atease-399",
     "nearest_base_installation": "Marine Corps Air Station Yuma",
     "nearest_base_installation_type": "marinecorps",
     "name": "Commander's Reprieve",
-    "summary": "Slowly the arm that held the lamp raised it higher and then higher until a broad flame became visible; an arc of fire burnt on the rim of the horizon, and all round it the sea blazed gold.",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
     "property_type": "house",
     "room_type": "multi",
     "isPetFriendly": false,
@@ -357,7 +355,7 @@
     "images": [
       {
         "image_name": "",
-        "image_source": "img/gallery-img-4.jpeg"
+        "image_source": "img/gallery-img-2.jpeg"
       }
     ],
     "property_address": {
@@ -370,12 +368,12 @@
     }
   },
   {
-    "maskId": "basesearch-401",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-401",
+    "maskId": "atease-401",
+    "listing_url": "https://pcsatease.com/listing/atease-401",
     "nearest_base_installation": "Vandenberg AFB",
     "nearest_base_installation_type": "airforce",
     "name": "Airman's Home Away From Home",
-    "summary": "The light struck upon the trees in the garden, making one leaf transparent and then another. One bird chirped high up; there was a pause; another chirped lower down.",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
     "property_type": "apartment",
     "room_type": "multi",
     "isPetFriendly": false,
@@ -399,7 +397,7 @@
     "images": [
       {
         "image_name": "",
-        "image_source": "img/gallery-img-5.jpeg"
+        "image_source": "img/about-us-img-4.jpeg"
       }
     ],
     "property_address": {
@@ -412,12 +410,12 @@
     }
   },
   {
-    "maskId": "basesearch-411",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-411",
+    "maskId": "atease-411",
+    "listing_url": "https://pcsatease.com/listing/atease-411",
     "nearest_base_installation": "Columbus AFB",
     "nearest_base_installation_type": "airforce",
     "name": "Recruit's Cabin",
-    "summary": "The sun sharpened the walls of the house, and rested like the tip of a fan upon a white blind and made a blue finger-print of shadow under the leaf by the bedroom window.",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
     "property_type": "cabin",
     "room_type": "single",
     "isPetFriendly": false,
@@ -441,7 +439,7 @@
     "images": [
       {
         "image_name": "",
-        "image_source": "img/gallery-img-6.jpeg"
+        "image_source": "img/gallery-img-5.jpeg"
       }
     ],
     "property_address": {
@@ -454,12 +452,12 @@
     }
   },
   {
-    "maskId": "basesearch-421",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-421",
+    "maskId": "atease-421",
+    "listing_url": "https://pcsatease.com/listing/atease-421",
     "nearest_base_installation": "Holloman AFB",
     "nearest_base_installation_type": "airforce",
     "name": "USAFB Welcome",
-    "summary": "The blind stirred slightly, but all within was dim and unsubstantial. The birds sang their blank melody outside.",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
     "property_type": "guest-house",
     "room_type": "multi",
     "isPetFriendly": false,
@@ -483,7 +481,7 @@
     "images": [
       {
         "image_name": "",
-        "image_source": ""
+        "image_source": "img/about-us-img-4.jpeg"
       }
     ],
     "property_address": {
@@ -496,12 +494,12 @@
     }
   },
   {
-    "maskId": "basesearch-535",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-535",
+    "maskId": "atease-535",
+    "listing_url": "https://pcsatease.com/listing/atease-535",
     "nearest_base_installation": "Station Sturgeon Bay",
     "nearest_base_installation_type": "coastguard",
     "name": "Coast Is All Clear",
-    "summary": "'I see a ring,' said Bernard, 'hanging above me. It quivers and hangs in a loop of light.'",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
     "property_type": "cabin",
     "room_type": "single",
     "isPetFriendly": false,
@@ -538,12 +536,12 @@
     }
   },
   {
-    "maskId": "basesearch-565",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-565",
+    "maskId": "atease-565",
+    "listing_url": "https://pcsatease.com/listing/atease-565",
     "nearest_base_installation": "Air Station Corpus Christi",
     "nearest_base_installation_type": "coastguard",
     "name": "Guardsman's Cabin",
-    "summary": "'I see a slab of pale yellow,' said Susan, 'spreading away until it meets a purple stripe.'",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
     "property_type": "cabin",
     "room_type": "single",
     "isPetFriendly": false,
@@ -567,7 +565,7 @@
     "images": [
       {
         "image_name": "",
-        "image_source": "img/about-us-img-4.jpeg"
+        "image_source": "img/gallery-img-1.jpeg"
       }
     ],
     "property_address": {
@@ -580,12 +578,12 @@
     }
   },
   {
-    "maskId": "basesearch-575",
-    "listing_url": "https://pcsbasesearch.com/listing/basesearch-575",
+    "maskId": "atease-575",
+    "listing_url": "https://pcsatease.com/listing/atease-575",
     "nearest_base_installation": "Holloman AFB",
     "nearest_base_installation_type": "coastguard",
     "name": "Captain's Lounge",
-    "summary": "'I hear a sound,' said Rhoda, 'cheep, chirp; cheep chirp; going up and down.'",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi proin. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Eu volutpat odio facilisis mauris sit amet massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus vitae. Velit dignissim sodales ut eu sem integer. Duis tristique sollicitudin nibh sit amet. Eget arcu dictum varius duis. Consequat nisl vel pretium lectus quam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. A scelerisque purus semper eget. Scelerisque eleifend donec pretium vulputate sapien nec sagittis.",
     "property_type": "guest-house",
     "room_type": "single",
     "isPetFriendly": false,
@@ -609,7 +607,7 @@
     "images": [
       {
         "image_name": "",
-        "image_source": "img/about-us-img-3.jpeg"
+        "image_source": "img/about-us-img-4.jpeg"
       }
     ],
     "property_address": {

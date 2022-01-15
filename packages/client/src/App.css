@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.common-section-header {
+  padding: 3rem;
+  text-align: center;
+  color: #b85d1c;
+}
+
+.common-section-heading {
+  font-size: 4rem;
+  font-weight: 300;
+  letter-spacing: .2rem;
+}
+
+.small-underline {
+  width: 9rem;
+  height: .1rem;
+  margin: 0 auto 1rem auto;
+  background-color: #b85d1c;
+}
+
+.big-underline {
+  width: 20rem;
+  margin: auto;
+  height: .1rem;
+  background-color: #b85d1c;
+}

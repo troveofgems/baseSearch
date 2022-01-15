@@ -9,10 +9,8 @@ openDatabaseConnection()
   .then(() => {})
   .catch(err => console.error(err));
 
-app.use(express.json());
-
 mountRouterToApplication(app);
 
 app.listen(PORT, () => {
-  console.log('At Ease Server Started On Port: ', PORT);
+  console.log('BaseSearch Server Started On Port: ', PORT);
 });

@@ -1,0 +1,79 @@
+.landing {
+    height: 100vh;
+    background:
+            linear-gradient(to top, rgba(0, 0, 0, .6), rgba(0, 0, 0, .5)),
+            url("../img/jessica-radanavong-0ZkAINlmtOs-unsplash.jpg") no-repeat center;
+    background-size: contain;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin: 0 1rem;
+    padding: 3rem;
+}
+
+.brand-heading {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    color: #deaa86;
+    letter-spacing: .2rem;
+    padding-left: 1rem;
+}
+
+.banner {
+    color: #ddd;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-heading {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 4rem;
+    font-weight: 400;
+    margin-bottom: 0;
+    animation: anim 2s;
+}
+
+.banner-paragraph {
+    font-size: 1.75rem;
+    font-weight: 300;
+    animation: anim 4s, 4s backwards;
+}
+
+.banner-btn {
+    width: 20%;
+    padding: 1.2rem 2rem;
+    font-size: 1rem;
+    color: #333;
+    letter-spacing: .1rem;
+    border: none;
+    border-radius: 10rem;
+    outline: none;
+    cursor: pointer;
+    background: linear-gradient(to right, gold, goldenrod);
+    animation: 8s, 8s backwards;
+}
+
+.brandLogoFAI {
+    font-size: 4rem;
+    height: fit-content;
+}
+
+.banner-btn:hover {
+    background: linear-gradient(to left, gold, goldenrod);
+}
+
+@keyframes anim {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

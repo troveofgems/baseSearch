@@ -11,7 +11,10 @@
   },
   "scripts": {
     "dev": "concurrently \"yarn run server\" \"yarn run client\"",
-    "data:import": "yarn --cwd packages/server importServerData",
-    "data:clean": "yarn --cwd packages/server cleanServerData"
+    "data:import": "yarn --cwd packages/server importServerData:Listings",
+    "data:clean": "yarn --cwd packages/server cleanServerData:Listings"
+  },
+  "devDependencies": {
+    "create-react-app": "^5.0.0"
   }
 }
